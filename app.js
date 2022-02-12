@@ -57,7 +57,7 @@ async function getFoursquare(business) {
         method: 'GET',
         headers: {
         Accept: 'application/json',
-        Authorization: 'fsq3rSGnRADd1dvzLbGFczlSv2+JaPAyloVV0nVPt2JgTg0='
+        Authorization: "your foursquare API key here"
         }
     }
     //get location coordinates
